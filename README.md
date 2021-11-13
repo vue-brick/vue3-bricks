@@ -1,8 +1,14 @@
 #  rollup-tailwinds-vue3
 
 ## 特性
-* **typescript** 
+* **typescript**
 * Vue3
 * 单元测试
 * 提交发布前验证
-* travis 实现自动发布
+
+
+
+
+## 打包
+
+npm run build
