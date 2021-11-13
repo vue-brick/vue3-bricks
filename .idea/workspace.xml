@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b89ed57b-36f5-4754-a489-3f9465bdbccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lego-bricks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/rollup.esm.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/rollup.umd.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/Container/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/FlyBox/FlyBox.vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/FlyBox/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/IndexFeature/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/IndexFeature/indexFeature.vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/LImage/LImage.vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/LImage/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/LShape/LShape.vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/LShape/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/LText/LText.vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/LText/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/MonacoEditor/MonacoEditor.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/MonacoEditor/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/VueEcharts/VueEchart.vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/VueEcharts/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/defaultProps.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/hooks/useComponentCommon.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/well-bricks.esm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/well-bricks.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/well-bricks.umd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/well-bricks.umd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BaseScrollListPro/BaseScrollListPro.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BaseScrollListPro/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BaseScrollListPro/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/Container.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FlyBox/FlyBox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FlyBox/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LImage/LImage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LImage/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LShape/LShape.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LShape/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LText/LText.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LText/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MonacoEditor/MonacoEditor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MonacoEditor/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VueCountTo/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VueCountTo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VueCountTo/requestAnimationFrame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VueCountTo/vue-countTo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VueEcharts/VueEchart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VueEcharts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/indexFeature/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/indexFeature/indexFeature.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/timeNumber/dateTime.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/timeNumber/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/timeNumber/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useComponentCommon.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/LText.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.eslintrc.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/node_modules/rollup/dist/shared/rollup.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/FlyBox/FlyBox.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tailwind.config.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package-lock.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1pv5xoBd0elRegmH57SZl3tRZra" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/BaseScrollListPro" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/BaseScrollListPro" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/VueCountTo" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components/MonacoEditor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hooks" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89ed57b-36f5-4754-a489-3f9465bdbccd" name="Default Changelist" comment="" />
+      <created>1616050976957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616050976957</updated>
+      <workItem from="1616050980792" duration="6000" />
+      <workItem from="1616052131508" duration="4858000" />
+      <workItem from="1616113708303" duration="2878000" />
+      <workItem from="1616119928921" duration="4557000" />
+      <workItem from="1616125514011" duration="309000" />
+      <workItem from="1616163618283" duration="4269000" />
+      <workItem from="1616383238174" duration="1775000" />
+      <workItem from="1616399911628" duration="3110000" />
+      <workItem from="1616459236106" duration="5444000" />
+      <workItem from="1616513853823" duration="5600000" />
+      <workItem from="1616569412211" duration="7278000" />
+      <workItem from="1616642596820" duration="3966000" />
+      <workItem from="1616652026993" duration="22674000" />
+      <workItem from="1617064639299" duration="137000" />
+      <workItem from="1617377785063" duration="5267000" />
+      <workItem from="1618391506490" duration="1571000" />
+      <workItem from="1619139105028" duration="10056000" />
+      <workItem from="1619153858201" duration="6669000" />
+      <workItem from="1619314124169" duration="335000" />
+      <workItem from="1619321183319" duration="898000" />
+      <workItem from="1619428759153" duration="163000" />
+      <workItem from="1619712254277" duration="176000" />
+      <workItem from="1619751775148" duration="209000" />
+      <workItem from="1620444535651" duration="29000" />
+      <workItem from="1620445598170" duration="5783000" />
+      <workItem from="1620692531690" duration="515000" />
+      <workItem from="1636770244886" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
